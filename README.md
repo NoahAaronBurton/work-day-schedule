@@ -65,7 +65,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](./assets/imgs/screenshot.png)
 
-<p>Use this site to generate a secure password. When you press the 'Generate Password' button, you will be prompted to select the character sets you want to use. Then, your new password will be displayed for you to use.</p>
+<p>Use this site to keep track of your work day. Your entries will be saved to local storage when you click the blue save button.</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -95,7 +95,7 @@ Project Link: [https://github.com/NoahAaronBurton/work-day-schedule](https://git
 ## Acknowledgments
 
 * [Xandromus on Github](https://github.com/Xandromus) for the starter code
-* []() Chat GPT for helping me figure about how to get a random index from the arrays I created
+* []() Chat GPT for helping me figure out how to use parseInt for time-block function. See code comments for details.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
