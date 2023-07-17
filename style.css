@@ -1,6 +1,7 @@
 body {
   font-family: 'Roboto Mono', monospace;
   font-size: 16px;
+  background-color: #424242;
 }
 
 textarea {
@@ -12,6 +13,14 @@ textarea {
   padding: 10px;
 }
 
+header {
+  color:ivory;
+}
+
+#currentDay {
+  font-size: 36px;
+}
+
 .description {
   white-space: pre-wrap;
 }
@@ -21,11 +30,11 @@ textarea {
 }
 
 .row {
-  border-top: 1px solid white;
+  border-top: 1px solid  #424242;
 }
 
 .hour {
-  background-color: #ffffff;
+  background-color: #645b5b;
   color: #000000;
   border-top: 1px dashed #000000;
 }
