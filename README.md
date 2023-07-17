@@ -25,21 +25,21 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/NoahAaronBurton/Password-Generator">
+  <a href="https://github.com/NoahAaronBurton/work-day-schedule">
     
   </a>
 
-<h3 align="center">Password Generator</h3>
+<h3 align="center">Work Day Schedule</h3>
 
   <p align="center">
-    Generates a new and secure password based on custom criteria
+    Add events to every hour of the day
     <br />
-    <a href="https://github.com/NoahAaronBurton/Password-Generator"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/NoahAaronBurton/work-day-schedule"><strong>Explore the docs »</strong></a>
     .
-    <a href="https://noahaaronburton.github.io/Password-Generator/"><strong>Visit the site </strong></a>
+    <a href="https://noahaaronburton.github.io/work-day-schedule/"><strong>Visit the site </strong></a>
     <br />
     <br />
-    <a href="https://github.com/NoahAaronBurton/Password-Generator/issues">Report Bug</a>
+    <a href="https://github.com/NoahAaronBurton/work-day-schedule/issues">Report Bug</a>
   </p>
 </div>
 
@@ -85,7 +85,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Noah Burton - nburton115@gmail.com
 
-Project Link: [https://github.com/NoahAaronBurton/Password-Generator](https://github.com/NoahAaronBurton/Password-Generator)
+Project Link: [https://github.com/NoahAaronBurton/work-day-schedule](https://github.com/NoahAaronBurton/work-day-schedule)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -103,19 +103,19 @@ Project Link: [https://github.com/NoahAaronBurton/Password-Generator](https://gi
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/NoahAaronBurton/Password-Generator.svg?style=for-the-badge
-[contributors-url]: https://github.com/NoahAaronBurton/Password-Generator/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/NoahAaronBurton/Password-Generator.svg?style=for-the-badge
-[forks-url]: https://github.com/NoahAaronBurton/Password-Generator/network/members
-[stars-shield]: https://img.shields.io/github/stars/NoahAaronBurton/Password-Generator.svg?style=for-the-badge
-[stars-url]: https://github.com/NoahAaronBurton/Password-Generator/stargazers
-[issues-shield]: https://img.shields.io/github/issues/NoahAaronBurton/Password-Generator.svg?style=for-the-badge
-[issues-url]: https://github.com/NoahAaronBurton/Password-Generator/issues
-[license-shield]: https://img.shields.io/github/license/NoahAaronBurton/Password-Generator.svg?style=for-the-badge
-[license-url]: https://github.com/NoahAaronBurton/Password-Generator/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/NoahAaronBurton/work-day-schedule.svg?style=for-the-badge
+[contributors-url]: https://github.com/NoahAaronBurton/work-day-schedule/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/NoahAaronBurton/work-day-schedule.svg?style=for-the-badge
+[forks-url]: https://github.com/NoahAaronBurton/work-day-schedule/network/members
+[stars-shield]: https://img.shields.io/github/stars/NoahAaronBurton/work-day-schedule.svg?style=for-the-badge
+[stars-url]: https://github.com/NoahAaronBurton/work-day-schedule/stargazers
+[issues-shield]: https://img.shields.io/github/issues/NoahAaronBurton/work-day-schedule.svg?style=for-the-badge
+[issues-url]: https://github.com/NoahAaronBurton/work-day-schedule/issues
+[license-shield]: https://img.shields.io/github/license/NoahAaronBurton/work-day-schedule.svg?style=for-the-badge
+[license-url]: https://github.com/NoahAaronBurton/work-day-schedule/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
-[product-screenshot]: ./assets/imgs/screenshot.png
+[product-screenshot]: ./Assets/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
